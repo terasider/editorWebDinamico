@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#editor {
+    margin-bottom: 20px;
+}
+#input {
+    width: 60%;
+    height: 100px;
+}
+#inputStyle {
+    width: 35%;
+    height: 100px;
+}
+
+
+#output {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
